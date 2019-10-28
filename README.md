@@ -1,6 +1,6 @@
 # 420J11AS-CppPractice
 
-Topics:
+## Basic Topics:
 * Forward Declaration
 * Headers and Implementation
 * Header Guard
